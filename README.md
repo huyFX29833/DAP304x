@@ -8,7 +8,7 @@ File Python chấm điểm bài kiểm tra của học sinh dựa trên đáp á
 ### Python Environment:
 - Python 3.x
 - Thư viện `numpy`
-- Đặt file .py và các file dữ liệu trong cùng thư mục.
+- Đặt file lastname_firstname_grade_the_exams.py và các file dữ liệu trong cùng thư mục.
 ### Required Libraries:
 ```
 pip install numpy
