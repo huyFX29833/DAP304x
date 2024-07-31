@@ -7,14 +7,14 @@ File Python chấm điểm bài kiểm tra của học sinh dựa trên đáp á
 # Installation
 ### Python Environment:
 - Python 3.x
-- Thư viện `numpy`
-- Đặt file lastname_firstname_grade_the_exams.py và các file dữ liệu trong cùng thư mục.
 ### Required Libraries:
+- Thư viện `numpy`
 ```
 pip install numpy
 ```
 
 # Usage
+- Đặt file lastname_firstname_grade_the_exams.py và các file dữ liệu trong cùng thư mục.
 - Khởi chạy file lastname_firstname_grade_the_exams.py
 - Khi được yêu cầu, nhập tên file lớp học (từ class1 đến class8)
 
